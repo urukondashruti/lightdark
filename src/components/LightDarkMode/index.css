@@ -1,0 +1,43 @@
+.back {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.con {
+  background-color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+  color: black;
+}
+.con1 {
+  background-color: black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+  color: white;
+}
+.but2 {
+  background-color: white;
+  color: black;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 10px;
+  height: 40px;
+  width: 100px;
+}
